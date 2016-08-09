@@ -1,0 +1,452 @@
+[33mcommit 57715c1680509d9be253a77bba6712052ee72b28[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Wed Jul 27 01:27:33 2016 +0900
+
+    Update README.md
+
+[33mcommit be2d2e0c8b2c55162be8ad6b3049f19d26578202[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Wed Jul 27 01:23:02 2016 +0900
+
+    Update README.md
+
+[33mcommit 0067ef749514423ebae16411f3cd912f482a211a[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jul 26 17:28:13 2016 +0900
+
+    neural_style
+
+[33mcommit 289ae23da9de72074ff938b34ade3110402d6504[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jul 26 16:30:23 2016 +0900
+
+    neural style added
+
+[33mcommit b3ff9f825f9b182a790032fba36b86af1186db59[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue Jul 26 00:40:44 2016 +0900
+
+    Update README.md
+
+[33mcommit df11978f8d6858ed281b1e5d0874c0279f3f9326[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jul 26 00:17:12 2016 +0900
+
+    gitignore
+
+[33mcommit ff2213911738790c224dd27f6392b04342bed52d[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jul 26 00:16:29 2016 +0900
+
+    gitignore
+
+[33mcommit 8143e33e0035b7d528c1c643d4c302d01451dd55[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jul 26 00:15:00 2016 +0900
+
+    gitignore
+
+[33mcommit 09ce7d2db6147b66e353838659ca8d2c6a3898da[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jul 26 00:11:57 2016 +0900
+
+    etc
+
+[33mcommit d53809e3a2224c2b70ab5bc1fb2d7b10b77d0907[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jul 26 00:05:51 2016 +0900
+
+    add -u .
+
+[33mcommit 4a87f6c3739958760d67fc5cbdc351169bd53a52[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jul 26 00:03:39 2016 +0900
+
+    gitignore
+
+[33mcommit e44529f2e76f58639ede88b1b5cb58a0cb19a1de[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jul 26 00:01:43 2016 +0900
+
+    gitignore
+
+[33mcommit 58139cbddce9defb246bafa7bc05b862adb59805[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Mon Jul 25 23:59:51 2016 +0900
+
+    del
+
+[33mcommit ca56aedc80642e8dd09618699653fbada25fee03[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Mon Jul 25 23:58:24 2016 +0900
+
+    del
+
+[33mcommit acfcf7eae7ca77cdc02bd33db0aac2fd531040f7[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Mon Jul 25 23:50:10 2016 +0900
+
+    gitignore
+
+[33mcommit 25f6aabddff729a05280ed8eb288a9a60373f0a5[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Mon Jul 25 23:46:51 2016 +0900
+
+    gitignore
+
+[33mcommit aac5eebd19a5e46e1147b5f3556bc65c9766a172[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Mon Jul 25 23:33:54 2016 +0900
+
+    Update README.md
+
+[33mcommit 1e2d8c9123558f28e9829e6a076fc3c4e682aa75[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Thu Jul 21 16:33:34 2016 +0900
+
+    week6
+
+[33mcommit 67043a26f80d9f448aadd258a210517c26daaf7a[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jul 19 17:08:17 2016 +0900
+
+    rnns
+
+[33mcommit ccddc0bd7cf948be38e7173efe23fe938280860b[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Fri Jul 15 23:57:31 2016 +0900
+
+    week6
+
+[33mcommit be98a55beff4352beebb3ccfbed100ce641dabf4[m
+Merge: 2a2804e b46daac
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Fri Jul 15 23:25:37 2016 +0900
+
+    Merge branch 'master' of https://github.com/sjchoi86/tensorflow-101
+    
+    Git is damn complex -_-
+
+[33mcommit 2a2804e89246795f512acc5f8a5ac3521014b707[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Fri Jul 15 23:25:00 2016 +0900
+
+    wtf
+
+[33mcommit b46daac60a239f797d7f53d0e9b1d3d5fc9cf2fc[m
+Merge: 97a9c31 ee2d921
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Fri Jul 15 23:04:09 2016 +0900
+
+    Merge pull request #7 from bluedisk/master
+    
+    TextLoader Unicode Issue Fix
+
+[33mcommit ee2d9213f641cf62a2712ff05f7ce3e688b0ac37[m
+Author: bluedisk <bluedisk@gmail.com>
+Date:   Fri Jul 15 22:40:37 2016 +0900
+
+    TextLoader Unicode Issue Fix
+    
+    change loading function in TextLoader from open to codecs.open
+    for loading unicode text input files
+
+[33mcommit 97a9c31a49bd0214f2b1d24e2b249a5a4e2c5f8c[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Fri Jul 15 10:39:40 2016 +0900
+
+    hangul
+
+[33mcommit c827a19cf07744734d72927ce6bc3f4f0257e1c7[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Fri Jul 15 10:30:32 2016 +0900
+
+    hangul_rnn
+
+[33mcommit ffcf36ebf1fe453827d76d1cc29dfdb9ce5502fc[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Wed Jul 13 12:42:54 2016 +0900
+
+    week5
+
+[33mcommit be4f1bf63238d8c8419ca8d4a3253d3593f9550f[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Wed Jul 13 12:09:53 2016 +0900
+
+    week5
+
+[33mcommit 937d033cdafb90a7a627f91665ed67a3c5190778[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jul 12 16:57:36 2016 +0900
+
+    week5
+
+[33mcommit 6b386a517b16c4163e8fe244ad9d12d4c4288052[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jul 12 16:55:27 2016 +0900
+
+    week5
+
+[33mcommit 2018420295bbe903a3b4b86cbc7193676fb805e5[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Thu Jul 7 17:02:58 2016 +0900
+
+    week4
+
+[33mcommit 8150a90a5a26ee1f525eac6cdd0344727faad457[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jul 5 16:35:44 2016 +0900
+
+    week4
+
+[33mcommit 2fb26d8acee9434c0a1d9654291c34c091ad5264[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Thu Jun 30 21:16:21 2016 +0900
+
+    week3
+
+[33mcommit d92b051c6f8a21c6438f5fb36c36cedeb1afc7a5[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Thu Jun 30 16:42:55 2016 +0900
+
+    week3
+
+[33mcommit 911e237397065b3dd84f02605f9d3ad952eb97ea[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jun 28 18:45:58 2016 +0900
+
+    semseg
+
+[33mcommit 7346defd4ad9e53603a4a1743296215924b2e11a[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jun 28 16:05:20 2016 +0900
+
+    week3
+
+[33mcommit c34caf11a06557e6d7439dc7d25805327d07a949[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Mon Jun 27 23:05:45 2016 +0900
+
+    deconv
+
+[33mcommit 02a50b684b0b32dbff1321364c0662337d7a1a6a[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Mon Jun 27 23:04:53 2016 +0900
+
+    cnn
+
+[33mcommit ed838893620909276334bb54499a3c7e0cd46939[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Mon Jun 27 09:29:22 2016 +0900
+
+    deconvnet
+
+[33mcommit b489e52c2ab38c3f618030ef6858a076992815a0[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Mon Jun 27 09:10:29 2016 +0900
+
+    deconvnet
+
+[33mcommit 37c825437d92334ec0f4303368f95fa421cbcc42[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jun 21 15:03:12 2016 +0900
+
+    week2
+
+[33mcommit 776133ab1879c89a2f23bb827d0cdac1635a3b1b[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jun 21 10:48:21 2016 +0900
+
+    week2
+
+[33mcommit ba6f79c7a43e11fdec88f33c62bafa2bdb55ca75[m
+Merge: 3de725c 55e2406
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jun 21 10:08:13 2016 +0900
+
+    Merge branch 'master' of https://github.com/sjchoi86/tensorflow-101
+
+[33mcommit 3de725ce446ec202d03452619300dddcae1416cf[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue Jun 21 10:06:37 2016 +0900
+
+    mlp_added
+
+[33mcommit 55e2406ef96d27d371156c34064aac1a0c8dce77[m
+Merge: 57d2528 2af6e65
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Thu Jun 16 02:07:29 2016 +0900
+
+    Merge pull request #5 from jdsutton/patch-1
+    
+    Update README.md
+
+[33mcommit 57d2528fb7605f80dccd259b7fa4566cd1258586[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Wed Jun 15 10:20:43 2016 +0900
+
+    week1
+
+[33mcommit 2af6e65204baa175e71638e71a901ab24a5a8db2[m
+Author: jdsutton <jdsutton@calpoly.edu>
+Date:   Mon Jun 13 06:14:51 2016 -0700
+
+    Update README.md
+    
+    Fix typo
+
+[33mcommit 34a32204e0da88bfa948a1b2714f391f3201c40d[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Fri May 13 09:45:51 2016 +0900
+
+    Update README.md
+
+[33mcommit e857877e887806f665d222b307aaf15adf2e36bc[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 22:37:57 2016 +0900
+
+    Update README.md
+
+[33mcommit 9dcd39ef24afe35a3a7512ce6fee22aa47ab70d1[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 09:03:05 2016 +0900
+
+    Update README.md
+
+[33mcommit eb484dece3fefd2e7db46cbeae73d2ecbdf69452[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 01:29:10 2016 +0900
+
+    Update README.md
+
+[33mcommit 24ef327c8e101ed433525b29f360421817ce01db[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 01:23:29 2016 +0900
+
+    Update README.md
+
+[33mcommit e6997ea0dd0ddc92f24f955b064e857bf52170a0[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 01:23:08 2016 +0900
+
+    Update README.md
+
+[33mcommit 54f95c0fe7bd0dec4669e6392de3349f908ff187[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 01:21:49 2016 +0900
+
+    Update README.md
+
+[33mcommit 5526f8db5c6d9a691e7a83f4d867f770305d27a2[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 01:10:48 2016 +0900
+
+    Update README.md
+
+[33mcommit 92892aec162cef02c419ee58b5d4845349dfc162[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 01:08:09 2016 +0900
+
+    Update README.md
+
+[33mcommit f049ea76c626b767fb70f0de7c6096e050e2fd55[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 01:06:59 2016 +0900
+
+    Update README.md
+
+[33mcommit f0642e4fffcc499a91f2967b574f32b3885786e5[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 01:06:28 2016 +0900
+
+    Update README.md
+
+[33mcommit a2faa0717a62601303ee11611fe6dff7c4c9b674[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 01:05:58 2016 +0900
+
+    Update README.md
+
+[33mcommit c68b5070503f2040e17ddfa966493ed6ce55b113[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 01:05:10 2016 +0900
+
+    Update README.md
+
+[33mcommit f4b46aa8032c7e3d242a5c1a6767c0cdeb9c8fe7[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 01:03:47 2016 +0900
+
+    Update README.md
+
+[33mcommit 7a90d3953d4409969296256678619be4522153e7[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 01:02:12 2016 +0900
+
+    Update README.md
+
+[33mcommit e6630a16f69485edfd4a675352156e0763d5842c[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 00:59:47 2016 +0900
+
+    Update README.md
+
+[33mcommit 8c096a338de96c04b818cb1d5ecd40833cc9845c[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 00:59:34 2016 +0900
+
+    Update README.md
+
+[33mcommit 6440914cfc0a6b41117bcb22e59028683fc1554f[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 00:59:19 2016 +0900
+
+    Update README.md
+
+[33mcommit bc62d1af4605422d08b475ce67263093a48ff6dc[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 00:57:18 2016 +0900
+
+    Update README.md
+
+[33mcommit bf1d82186868f20691cd883a2c4f97aeb3b01cc8[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 00:40:43 2016 +0900
+
+    Update README.md
+
+[33mcommit 39f17daabafa7ec683c742d96703f6cd7053b144[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue May 10 00:25:22 2016 +0900
+
+    nets added
+
+[33mcommit f1d9fd419d6fdbec32cab0a4683f1adf0265dfd7[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue May 10 00:23:23 2016 +0900
+
+    images added
+
+[33mcommit 6644516c8af89e1122ceeaa72bde8b574d8661c7[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue May 10 00:22:13 2016 +0900
+
+    npz added
+
+[33mcommit fee5840b4a7a561384716ca3577ce2a9be575603[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue May 10 00:20:58 2016 +0900
+
+    mnist added
+
+[33mcommit b9e29cbf01871295ee7adaa1f62836f5e1c843d2[m
+Author: sjchoi86 <sungjoon.s.choi@gmail.com>
+Date:   Tue May 10 00:18:50 2016 +0900
+
+    first upload
+
+[33mcommit 2121da1452c50a8414f40bf842f5ca40c311e1c2[m
+Author: Sungjoon <sungjoon.choi@gmail.com>
+Date:   Tue May 10 00:12:05 2016 +0900
+
+    Initial commit
